@@ -15,7 +15,7 @@ From the project root, do **mvn clean install** :
 
 **cd target**
 
-**$ java -jar cron-parser.jar "0 0 1,2,3,15 * 1-5 /usr/bin/find"**
+**$ java -jar cron_parser-1.0-SNAPSHOT.jar "0 0 1,2,3,15 * 1-5 /usr/bin/find"**
 
 minute        0 
 
